@@ -1,0 +1,674 @@
+1642681356310	geckodriver	INFO	Listening on 127.0.0.1:56189
+1642681356324	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56190" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofilexaV2co"
+1642681356826	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:56190/devtools/browser/ee99ef89-2bd5-014f-94e2-0c2afb9a354c
+1642681358193	Marionette	INFO	Listening on port 56195
+1642681358284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1642681362381	geckodriver	INFO	Listening on 127.0.0.1:56253
+1642681362887	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56254" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofile1xK7ez"
+1642681363420	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:56254/devtools/browser/7ed48c5a-2be9-034d-ba9c-1689d9e1adb8
+1642681364847	Marionette	INFO	Listening on port 56261
+1642681364943	Marionette	WARN	TLS certificate errors will be ignored for this session
+!!! error running onStopped callback: TypeError: callback is not a function
+1642681365433	Marionette	INFO	Stopped listening on port 56195
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+1642681365637	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1642681366759	Marionette	INFO	Stopped listening on port 56261
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642681366912	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1642681369230	geckodriver	INFO	Listening on 127.0.0.1:56315
+1642681369747	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56316" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofile6idGHP"
+1642681370154	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:56316/devtools/browser/5e4f40d3-aeec-a543-bb71-66f3ecc3a939
+1642681371566	Marionette	INFO	Listening on port 56323
+1642681371613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1642681375946	geckodriver	INFO	Listening on 127.0.0.1:56379
+1642681376461	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56380" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofile16x6Pn"
+1642681376919	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:56380/devtools/browser/27f23587-7fc2-6447-95f5-df51b8d47218
+1642681378460	Marionette	INFO	Listening on port 56387
+1642681378514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642681380777	Marionette	INFO	Stopped listening on port 56387
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642681380943	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1642681382867	geckodriver	INFO	Listening on 127.0.0.1:56443
+1642681383377	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56444" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofilepczeBK"
+1642681383898	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:56444/devtools/browser/18482947-f13b-3348-b877-adf9de83fb34
+1642681385477	Marionette	INFO	Listening on port 56451
+1642681385522	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1642681386994	Marionette	INFO	Stopped listening on port 56451
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642681387161	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1642682533326	geckodriver	INFO	Listening on 127.0.0.1:57023
+1642682533809	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57024" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofilelh5DbE"
+1642682534584	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:57024/devtools/browser/03fd1bcf-80d9-2c48-a81a-a52967049c64
+1642682536197	Marionette	INFO	Listening on port 57031
+1642682536277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1642682573645	geckodriver	INFO	Listening on 127.0.0.1:57113
+1642682574157	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57114" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofileXcT62u"
+1642682574787	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:57114/devtools/browser/1f4f9445-d4bd-194e-a855-d45c6fa98dab
+1642682576354	Marionette	INFO	Listening on port 57119
+1642682576417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1642682626943	Marionette	INFO	Stopped listening on port 57031
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642682627151	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+!!! error running onStopped callback: TypeError: callback is not a function
+1642682628447	Marionette	INFO	Stopped listening on port 57119
+1642682628652	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1642682711370	geckodriver	INFO	Listening on 127.0.0.1:57268
+1642682711852	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57269" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofileIMbh1c"
+1642682712566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:57269/devtools/browser/ce3a499a-f181-8f46-af55-fcc156f1533c
+1642682714152	Marionette	INFO	Listening on port 57276
+1642682714204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1642682737348	geckodriver	INFO	Listening on 127.0.0.1:57364
+1642682737362	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57365" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofileIifQK1"
+1642682737892	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642682739218	Marionette	INFO	Stopped listening on port 56323
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+DevTools listening on ws://localhost:57365/devtools/browser/b349502b-0430-be43-bbd7-b7986fddb1bd
+1642682739294	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1642682739536	Marionette	INFO	Listening on port 57370
+1642682739631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+1642682740420	Marionette	INFO	Stopped listening on port 57276
+1642682740645	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1642682802961	geckodriver	INFO	Listening on 127.0.0.1:57575
+1642682802975	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57576" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofileu9IzSM"
+1642682803400	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:57576/devtools/browser/92ac2002-7c30-7d4d-a79e-1b976e472f6f
+1642682804738	Marionette	INFO	Listening on port 57581
+1642682804821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+!!! error running onStopped callback: TypeError: callback is not a function
+1642682818690	Marionette	INFO	Stopped listening on port 57581
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642682818887	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+GVA info: Successfully connected to the Intel plugin, offline Gen95 
+1642682963526	geckodriver	INFO	Listening on 127.0.0.1:57701
+1642682963540	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57702" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofileDMthRb"
+1642682963977	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:57702/devtools/browser/bcd78c76-cce9-5d4e-a7e4-0a9892e58fee
+1642682965523	Marionette	INFO	Listening on port 57707
+1642682965598	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.error: ({})
+[Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEventSourceEventService.removeListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/resources/server-sent-events.js :: stopListening :: line 84"  data: no]: stopListening@resource://devtools/server/actors/resources/server-sent-events.js:84:31
+onWindowDestroy@resource://devtools/server/actors/resources/server-sent-events.js:71:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_windowDestroyed@resource://devtools/server/actors/targets/browsing-context.js:1480:10
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/browsing-context.js:1854:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 219: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn0.watcher2
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 219: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn0.watcher2
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 219: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn0.watcher2
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 219: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn0.watcher2
+!!! error running onStopped callback: TypeError: callback is not a function
+1642683125283	Marionette	INFO	Stopped listening on port 57707
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642683125664	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+!!! error running onStopped callback: TypeError: callback is not a function
+1642683127112	Marionette	INFO	Stopped listening on port 57370
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642683127156	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1642683130068	geckodriver	INFO	Listening on 127.0.0.1:57785
+1642683130551	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57786" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofileQhc2rU"
+1642683131168	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:57786/devtools/browser/8dff6cf6-50ff-6e4f-a4d1-05b5d6234369
+1642683132724	Marionette	INFO	Listening on port 57793
+1642683132790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.error: ({})
+[Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEventSourceEventService.removeListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/resources/server-sent-events.js :: stopListening :: line 84"  data: no]: stopListening@resource://devtools/server/actors/resources/server-sent-events.js:84:31
+onWindowDestroy@resource://devtools/server/actors/resources/server-sent-events.js:71:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_windowDestroyed@resource://devtools/server/actors/targets/browsing-context.js:1480:10
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/browsing-context.js:1854:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+1642683573056	geckodriver	INFO	Listening on 127.0.0.1:58135
+1642683573544	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58136" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofileez5xOB"
+1642683574234	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:58136/devtools/browser/d0bfeee4-3dfb-874f-bb88-dcf42592231a
+1642683575873	Marionette	INFO	Listening on port 58143
+1642683575902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3625: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/23f2b72733ab9f7ac361.js, line 3626: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1642684081450	Marionette	INFO	Stopped listening on port 58143
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642684081488	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB30006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1642684082018	Marionette	INFO	Stopped listening on port 57793
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642684082081	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1642777803653	geckodriver	INFO	Listening on 127.0.0.1:49615
+1642777804130	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49616" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofilefjwmwf"
+1642777804748	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:49616/devtools/browser/0f9aeb66-9b89-5144-9aad-794be486481b
+1642777806322	Marionette	INFO	Listening on port 49625
+1642777806429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+[Child 1610, MediaDecoderStateMachine #1] WARNING: Decoder=110ce9000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 1610, MediaDecoderStateMachine #1] WARNING: Decoder=110ce9000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 1610, MediaDecoderStateMachine #1] WARNING: Decoder=110cec000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 1610, MediaDecoderStateMachine #1] WARNING: Decoder=110cec000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+!!! error running onStopped callback: TypeError: callback is not a function
+1642777812355	Marionette	INFO	Stopped listening on port 49625
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642777812598	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1642777840802	geckodriver	INFO	Listening on 127.0.0.1:49720
+1642777841312	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49721" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofilemPfYv7"
+1642777841849	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:49721/devtools/browser/28d6926d-abbb-e646-a8ab-4860ee72b9a4
+1642777843262	Marionette	INFO	Listening on port 49728
+1642777843373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+!!! error running onStopped callback: TypeError: callback is not a function
+1642777851506	Marionette	INFO	Stopped listening on port 49728
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642777851708	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1642777854716	geckodriver	INFO	Listening on 127.0.0.1:49789
+1642777855228	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49790" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofileWeVfgh"
+1642777855650	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:49790/devtools/browser/f451c9b6-2046-be42-94da-224bf7710ca0
+1642777857151	Marionette	INFO	Listening on port 49797
+1642777857176	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1642777865874	Marionette	INFO	Stopped listening on port 49797
+1642777866082	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1642777868445	geckodriver	INFO	Listening on 127.0.0.1:49855
+1642777868951	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49856" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofileFQyDKu"
+1642777869536	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:49856/devtools/browser/b2b3430c-61cd-3648-b7d3-6c6a6ced97de
+1642777870923	Marionette	INFO	Listening on port 49863
+1642777871004	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1642777878540	Marionette	INFO	Stopped listening on port 49863
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642777878701	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1642777882354	geckodriver	INFO	Listening on 127.0.0.1:49921
+1642777882865	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49922" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofilel0jqn4"
+1642777883291	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:49922/devtools/browser/14288ca1-7713-074e-bb9e-303661129ea7
+1642777884678	Marionette	INFO	Listening on port 49929
+1642777884720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+1642777896196	geckodriver	INFO	Listening on 127.0.0.1:49985
+1642777896702	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49986" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofileeF7LNg"
+1642777897240	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:49986/devtools/browser/84cee1a7-cf41-d642-99e8-48162f1dfc55
+1642777898588	Marionette	INFO	Listening on port 49993
+1642777898653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1642777945635	Marionette	INFO	Stopped listening on port 49993
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642777945855	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+!!! error running onStopped callback: TypeError: callback is not a function
+1642777947194	Marionette	INFO	Stopped listening on port 49929
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642777947436	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1642784904655	geckodriver	INFO	Listening on 127.0.0.1:50497
+1642784905128	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50498" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofileOBDccW"
+1642784905887	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:50498/devtools/browser/c88af587-0761-1641-9c80-e752b09e2677
+1642784907454	Marionette	INFO	Listening on port 50505
+1642784907499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+1642784908624	geckodriver	INFO	Listening on 127.0.0.1:50560
+1642784908637	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50561" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofile3DoEfV"
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+1642784909116	Marionette	INFO	Marionette enabled
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:50561/devtools/browser/dcaaaf57-18fb-8e48-b9ed-5c1d787baa9d
+1642784910631	Marionette	INFO	Listening on port 50566
+1642784910740	Marionette	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+1642784913814	geckodriver	INFO	Listening on 127.0.0.1:50625
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+1642784914322	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50626" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofilekL2d3q"
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+1642784914921	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:50626/devtools/browser/026b6e4f-56ce-814a-a041-35de2729cfc2
+1642784917040	Marionette	INFO	Listening on port 50635
+1642784917109	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+1642784918683	geckodriver	INFO	Listening on 127.0.0.1:50697
+1642784918693	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50698" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofilebtnhPP"
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+1642784919214	Marionette	INFO	Marionette enabled
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:50698/devtools/browser/13d3bc7d-edd4-3d4c-8f10-7b7def9fa46d
+1642784921074	Marionette	INFO	Listening on port 50703
+1642784921157	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+1642784922462	geckodriver	INFO	Listening on 127.0.0.1:50767
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+1642784922966	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50768" "-foreground" "-no-remote" "-profile" "/var/folders/zz/zyxvpxvq6csfxvn_n000b510002s88/T/rust_mozprofile5spt4Q"
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+1642784923573	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:50768/devtools/browser/8b94ac83-c4a8-e247-976d-185fc33b04bb
+1642784926270	Marionette	INFO	Listening on port 50777
+1642784926348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3631: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/c31edb4f6fb4d71e77b8.js, line 3632: unreachable code after return statement
+!!! error running onStopped callback: TypeError: callback is not a function
+1642784957806	Marionette	INFO	Stopped listening on port 50505
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642784957978	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+!!! error running onStopped callback: TypeError: callback is not a function
+1642784961546	Marionette	INFO	Stopped listening on port 50635
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642784961726	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1642784963377	Marionette	INFO	Stopped listening on port 50703
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642784963450	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+!!! error running onStopped callback: TypeError: callback is not a function
+1642784965270	Marionette	INFO	Stopped listening on port 50566
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642784965452	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+!!! error running onStopped callback: TypeError: callback is not a function
+1642784967089	Marionette	INFO	Stopped listening on port 50777
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642784967324	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
